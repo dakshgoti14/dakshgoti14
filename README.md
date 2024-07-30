@@ -13,3 +13,6 @@
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
 </div>
+<div align="Center">
+  <img src="https://komarev.com/ghpvc/?username=dakshgoti14&style=flat-square&color=blue" alt=""/>
+</div>

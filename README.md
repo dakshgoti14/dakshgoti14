@@ -55,7 +55,5 @@ I am a Software Developer Engineer <img src="https://media.giphy.com/media/WUlpl
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=dakshgoti14
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakshgoti14&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgoti14)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgoti14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

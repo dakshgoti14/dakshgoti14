@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/daksh-goti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
-    <a href="https://drive.google.com/file/d/1G1iWNoJpVpvBtmc-2PTf-nP8K048Kzyi/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1aJdvmwlkAnl9ZktYzeJdvtGpuIzLI5tU/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="Resume Badge"/>
   </a>
   </a>

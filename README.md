@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN1YW5ncmV4c3ZnZzFvaWxhd3JmbDl2YWtmYmVydXhjYnRnMjhweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="Badge" align="Center">
-  <a href="www.linkedin.com/in/daksh-goti">
+    <a href="https://www.linkedin.com/in/daksh-goti">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
     <a href="https://drive.google.com/file/d/1NaJVb9kLJAdrfsLgshza8MApfMtKSpdZ/view?usp=drive_link">

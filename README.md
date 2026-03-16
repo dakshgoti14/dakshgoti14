@@ -70,7 +70,7 @@
 </br>
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dakshgoti14&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dakshgoti14&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Abhishek Choudhary" width="390"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dakshgoti14&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Daksh Goti" width="390"/>
   
 
 </p>

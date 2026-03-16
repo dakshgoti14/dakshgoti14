@@ -6,7 +6,7 @@
 <!-- <img  src="data/borderseperator.gif"> -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dakshgoti/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dakshgoti14/) [<img src = "https://img.shields.io/badge/blender art-%23FE6D03.svg?&style=for-the-badge&logo=blender&logoColor=white">](https://github.com/dakshgoti14/blender-projects/blob/main/README.md) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:dakshngoti6071@gmail.com) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dakshgoti/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dakshgoti14/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:dakshngoti6071@gmail.com) 
 ![Visits Badge](https://badges.pufler.dev/visits/dakshgoti14/dakshgoti14?style=for-the-badge)
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-choudharys&theme=gruvbox) -->
@@ -77,7 +77,7 @@
 <br/>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-choudharys&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshgoti14&theme=blue-green" />
 
 </p>
 

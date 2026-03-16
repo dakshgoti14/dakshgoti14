@@ -18,11 +18,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="350"/>
 
 <!-- ![Visits badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-choudharys.abhishek-choudharys) -->
-- 🔭 I’m currently working as a Software Engineer at Google.
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning Golang, Design patterns and optimization techiniques. <!-- - 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with serverless deployment hell.
 - 💬 Ask me just about anything. I am happy to help.
-- 📫 How to reach me: iam.abhishek.choudharys@gmail.com
+- 📫 How to reach me: dakshngoti6071@gmail.com
 - ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
 
 <br/>
